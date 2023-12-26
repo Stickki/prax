@@ -1,0 +1,46 @@
+{
+  "products": [
+    
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "",
+      "visibleName": "Категорія",
+      "image": ""
+    },
+    {
+      "id": 1,
+      "name": "",
+      "visibleName": "Всі товари",
+      "image": ""
+    },
+    {
+      "id": 2,
+      "name": "smartphones",
+      "visibleName": "Смартфони",
+      "image": ""
+    },
+    {
+      "id": 3,
+      "name": "watches",
+      "visibleName": "Годиники",
+      "image": ""
+    },
+    {
+      "id": 4,
+      "name": "laptops",
+      "visibleName": "Ноутбуки",
+      "image": ""
+    },
+    {
+      "id": 5,
+      "name": "tablets",
+      "visibleName": "Планшети",
+      "image": ""
+    }
+  ],
+  "users": [
+  
+  ]
+}
